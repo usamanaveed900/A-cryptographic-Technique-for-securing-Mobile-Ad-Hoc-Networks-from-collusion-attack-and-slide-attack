@@ -1,0 +1,26 @@
+C:\Users\Muhammad Usama\Desktop\SDA LAB FINAL\MZ Technique\MZ Technique\bin\Debug\MZ Technique.exe.config
+C:\Users\Muhammad Usama\Desktop\SDA LAB FINAL\MZ Technique\MZ Technique\bin\Debug\MZ Technique.exe
+C:\Users\Muhammad Usama\Desktop\SDA LAB FINAL\MZ Technique\MZ Technique\bin\Debug\MZ Technique.pdb
+C:\Users\Muhammad Usama\Desktop\SDA LAB FINAL\MZ Technique\MZ Technique\obj\Debug\MZ_Technique.Form1.resources
+C:\Users\Muhammad Usama\Desktop\SDA LAB FINAL\MZ Technique\MZ Technique\obj\Debug\MZ_Technique.Properties.Resources.resources
+C:\Users\Muhammad Usama\Desktop\SDA LAB FINAL\MZ Technique\MZ Technique\obj\Debug\MZ Technique.csproj.GenerateResource.Cache
+C:\Users\Muhammad Usama\Desktop\SDA LAB FINAL\MZ Technique\MZ Technique\obj\Debug\MZ Technique.exe
+C:\Users\Muhammad Usama\Desktop\SDA LAB FINAL\MZ Technique\MZ Technique\obj\Debug\MZ Technique.pdb
+C:\Users\Muhammad Usama\Desktop\SDA LAB FINAL\MZ Technique\MZ Technique\obj\Debug\MZ Technique.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Usama\Desktop\MZ Technique\MZ Technique\bin\Debug\MZ Technique.exe.config
+C:\Users\Muhammad Usama\Desktop\MZ Technique\MZ Technique\bin\Debug\MZ Technique.exe
+C:\Users\Muhammad Usama\Desktop\MZ Technique\MZ Technique\bin\Debug\MZ Technique.pdb
+C:\Users\Muhammad Usama\Desktop\MZ Technique\MZ Technique\obj\Debug\MZ_Technique.Form1.resources
+C:\Users\Muhammad Usama\Desktop\MZ Technique\MZ Technique\obj\Debug\MZ_Technique.Properties.Resources.resources
+C:\Users\Muhammad Usama\Desktop\MZ Technique\MZ Technique\obj\Debug\MZ Technique.csproj.GenerateResource.Cache
+C:\Users\Muhammad Usama\Desktop\MZ Technique\MZ Technique\obj\Debug\MZ Technique.exe
+C:\Users\Muhammad Usama\Desktop\MZ Technique\MZ Technique\obj\Debug\MZ Technique.pdb
+E:\Bussiness\CLIENT_PROJECT\MZ Technique\MZ Technique\MZ Technique\bin\Debug\MZ Technique.exe.config
+E:\Bussiness\CLIENT_PROJECT\MZ Technique\MZ Technique\MZ Technique\obj\Debug\MZ Technique.exe
+E:\Bussiness\CLIENT_PROJECT\MZ Technique\MZ Technique\MZ Technique\obj\Debug\MZ Technique.pdb
+E:\Bussiness\CLIENT_PROJECT\MZ Technique\MZ Technique\MZ Technique\bin\Debug\MZ Technique.exe
+E:\Bussiness\CLIENT_PROJECT\MZ Technique\MZ Technique\MZ Technique\bin\Debug\MZ Technique.pdb
+E:\Bussiness\CLIENT_PROJECT\MZ Technique\MZ Technique\MZ Technique\obj\Debug\MZ Technique.csprojResolveAssemblyReference.cache
+E:\Bussiness\CLIENT_PROJECT\MZ Technique\MZ Technique\MZ Technique\obj\Debug\MZ_Technique.Form1.resources
+E:\Bussiness\CLIENT_PROJECT\MZ Technique\MZ Technique\MZ Technique\obj\Debug\MZ_Technique.Properties.Resources.resources
+E:\Bussiness\CLIENT_PROJECT\MZ Technique\MZ Technique\MZ Technique\obj\Debug\MZ Technique.csproj.GenerateResource.Cache
